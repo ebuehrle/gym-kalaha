@@ -18,4 +18,4 @@ observation, reward, done, info = kalaha.step(0)
 ```
 
 ## Rules
-Different rule variants exist. This package currently contains only one environment, which implements the rules of the Playsino edition (see ebuehrle.github.io/kalah). 
+Different rule variants exist. This package currently contains only one environment, implementing the rules of the Playsino edition (see [ebuehrle.github.io/kalah](ebuehrle.github.io/kalah)). 
